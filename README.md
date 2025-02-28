@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourusername?v=4" width="120" height="120" style="border-radius:50%" />
+  <img src="https://avatars.githubusercontent.com/u/praneethm181?v=4" width="120" height="120" style="border-radius:50%" />
   
   # Praneeth
   ### Full-Stack Developer & Tech Innovator
@@ -20,9 +20,7 @@
   About Me
 </h2>
 
-<div align="center">
-  
-```typescript
+```javascript
 const praneeth = {
   title: "Full-Stack Developer & Tech Enthusiast",
   
@@ -38,7 +36,6 @@ const praneeth = {
   interests: ["Web Development", "Mobile Apps", "New Technologies"]
 };
 ```
-</div>
 
 <!-- Tech Stack Section -->
 <h2 align="center">
@@ -47,28 +44,20 @@ const praneeth = {
 </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark&perline=2" />
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&theme=dark&perline=2" />
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Other Tools</h3>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,flutter,git&theme=dark&perline=2" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <h3>Frontend</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark" />
+  </p>
+  
+  <h3>Backend</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&theme=dark" />
+  </p>
+  
+  <h3>Database & Tools</h3>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,flutter,git&theme=dark" />
+  </p>
 </div>
 
 <!-- Get in Touch Section -->
@@ -79,13 +68,7 @@ const praneeth = {
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/yourusername/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Get_In_Touch-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
 </p>
 
