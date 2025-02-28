@@ -43,46 +43,24 @@ const praneeth = {
   Tech Stack
 </h2>
 
+<br/>
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        </div>
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        </div>
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <h3 align="center">Database & Tools</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />&nbsp;&nbsp;
-          <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark&perline=4" />
+  </p>
+  
+  <h3>Backend</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&theme=dark&perline=5" />
+  </p>
+  
+  <h3>Database & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,flutter,git&theme=dark&perline=4" />
+  </p>
 </div>
+<br/>
 
 <!-- Get in Touch Section -->
 <h2 align="center">
@@ -90,11 +68,11 @@ const praneeth = {
   Let's Connect
 </h2>
 
-<div align="center">
+<p align="center">
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Get_In_Touch-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
-</div>
+</p>
 
 <div align="center">
   <br />
