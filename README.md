@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/72144130?v=4" width="120" height="120" style="border-radius:50%; border: 3px solid #36BCF7" />
   
-  # Praneeth
+  # Praneeth M
   ### Aspiring Full-Stack Developer & Tech Innovator
   
   <p align="center">
