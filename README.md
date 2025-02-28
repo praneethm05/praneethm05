@@ -1,82 +1,70 @@
-<h1 align="center">👨‍💻 Praneeth</h1>
-<h3 align="center">Full-Stack Developer & Tech Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7209B7&height=200&section=header&text=Praneeth&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Turning+ideas+into+code;Always+learning%2C+always+evolving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Crafting+elegant+solutions;Turning+ideas+into+code;Always+learning%2C+always+evolving" alt="Typing SVG" />
 </p>
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=181717&labelColor=181717)
-  ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=181717)
+  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=flat-square&logo=github&color=36BCF7&labelColor=000000&label=Followers)](https://github.com/yourusername?tab=followers)
+  ![Profile views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=36BCF7&label=Profile%20Views&labelColor=000000)
   
 </div>
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> &nbsp;Tech Stack
+
+```javascript
+const skills = {
+  languages: ["JavaScript", "Java", "Python", "C", "PHP", "HTML", "CSS"],
+  frameworks: {
+    frontend: ["React", "Flutter"],
+    backend: ["Express.js", "Node.js"],
+  },
+  databases: ["MongoDB", "MySQL"],
+  mobile: ["React Native", "Flutter"],
+  currentlyLearning: "Always something new",
+};
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,php,java,python,c,html,css,flutter&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=7209B7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-## 📫 Connect With Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6&no-bg=true&margin-w=15&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=36BCF7&fire=7209B7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</p>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"> &nbsp;Connect With Me
 
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
   <a href="https://www.instagram.com/yourusername/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=36BCF7" alt="Instagram" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=36BCF7" alt="Twitter" />
   </a>
 </p>
 
 <div align="center">
-  
-  ```javascript
-  const praneeth = {
-    code: ["JavaScript", "Java", "Python", "C", "PHP"],
-    askMeAbout: ["web dev", "mobile dev", "tech", "app dev"],
-    technologies: {
-        mobileApp: ["React Native", "Flutter"],
-        frontEnd: {
-            js: ["React"],
-            css: ["CSS3"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            php: ["pure"]
-        },
-        databases: ["MongoDB", "MySQL"]
-    },
-    currentFocus: "Building scalable applications",
-    funFact: "There are two ways to write error-free code; only the third one works"
-  };
-  ```
-  
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github decoration image" width="100%" />
 </div>
 
----
-
-<p align="center">🚀 <i>Let's connect and build something amazing together!</i> 🚀</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect+and+create." alt="Thanks for visiting!" />
+</h3>
