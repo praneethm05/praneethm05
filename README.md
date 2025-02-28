@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/praneethm05?v=4" width="120" height="120" style="border-radius:50%; border: 3px solid #36BCF7" />
+  <img src="https://avatars.githubusercontent.com/u/praneethm05?v=4](https://avatars.githubusercontent.com/u/72144130?s=400&u=95579a38515c0b3c17a479b736188a1213a872fb&v=4" width="120" height="120" style="border-radius:50%; border: 3px solid #36BCF7" />
   
   # Praneeth
   ### Full-Stack Developer & Tech Innovator
