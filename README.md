@@ -56,7 +56,7 @@ const praneeth = {
         </div>
       </td>
     </tr>
-    <tr><td height="30"></td></tr>
+
     <tr>
       <td>
         <h3 align="center">Backend</h3>
@@ -69,7 +69,7 @@ const praneeth = {
         </div>
       </td>
     </tr>
-    <tr><td height="30"></td></tr>
+
     <tr>
       <td>
         <h3 align="center">Database & Tools</h3>
