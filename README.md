@@ -5,10 +5,10 @@
   ### Aspiring Full-Stack Developer & Tech Innovator
   
   <p align="center">
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=36BCF7" alt="Email"></a>
-    <a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
-    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter"></a>
+    <a href="https://github.com/praneethm05"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="mailto:praneethmofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=36BCF7" alt="Email"></a>
+    <a href="https://www.instagram.com/praneethm05"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+    <a href="https://twitter.com/praneethm05"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter"></a>
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Turning+ideas+into+code;Always+learning%2C+always+evolving" alt="Typing SVG" />
@@ -69,7 +69,7 @@ const praneeth = {
 </h2>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:praneethmofficial@gmail.com">
     <img src="https://img.shields.io/badge/-Get_In_Touch-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
 </p>
