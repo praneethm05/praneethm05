@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/72144130?v=4" width="120" height="120" style="border-radius:50%; border: 3px solid #36BCF7" />
   
   # Praneeth M
-  ### Aspiring Full-Stack Developer & Tech Innovator
+  ### Aspiring Full-Stack Developer 
   
   <p align="center">
     <a href="https://github.com/praneethm05"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
