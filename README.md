@@ -1,80 +1,70 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/72144130?v=4" width="120" height="120" style="border-radius:50%; border: 3px solid #36BCF7" />
-  
-  # Praneeth M
-  ### Aspiring Full-Stack Developer 
-  
-  <p align="center">
-    <a href="https://github.com/praneethm05"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="mailto:praneethmofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=36BCF7" alt="Email"></a>
-    <a href="https://www.instagram.com/praneethm05"><img src="https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
-    <a href="https://twitter.com/praneethm05"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter"></a>
-  </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Turning+ideas+into+code;Always+learning%2C+always+evolving" alt="Typing SVG" />
+# Praneeth M
+
+**Full-Stack Developer**
+
+*Building technology that just works.*
+
+---
+
+[GitHub](https://github.com/praneethm05) • [Email](mailto:praneethmofficial@gmail.com) • [Instagram](https://www.instagram.com/praneethm05) • [Twitter](https://twitter.com/praneethm05)
+
 </div>
 
-<!-- About Me Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="24">&nbsp; 
-  About Me
-</h2>
-
-```javascript
-const praneeth = {
-  title: "Full-Stack Developer & Tech Enthusiast",
-  
-  skills: {
-    languages: ["JavaScript", "Java", "Python", "C", "PHP", "HTML", "CSS"],
-    frontEnd: ["React", "Redux"],
-    backEnd: ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL"],
-    mobile: ["React Native", "Flutter"]
-  },
-  
-  currentFocus: "Building scalable and elegant applications",
-  interests: ["Web Development", "Mobile Apps", "New Technologies"]
-};
-```
-
-<!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24">&nbsp; 
-  Tech Stack
-</h2>
-
-<br/>
-<div align="center">
-  <h3>Frontend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=js,html,css,react&theme=dark&perline=4" />
-  </p>
-  
-  <h3>Backend</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python&theme=dark&perline=5" />
-  </p>
-  
-  <h3>Database & Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,flutter,git&theme=dark&perline=4" />
-  </p>
-</div>
 <br/>
 
-<!-- Get in Touch Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24">&nbsp; 
-  Let's Connect
-</h2>
+## Philosophy
 
-<p align="center">
-  <a href="mailto:praneethmofficial@gmail.com">
-    <img src="https://img.shields.io/badge/-Get_In_Touch-000?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
-  </a>
-</p>
+> "Design is not just what it looks like and feels like.  
+> Design is how it works."
+
+I believe great software starts with clarity of purpose. Every line of code should serve the user, every interface should feel intuitive, and every feature should solve a real problem. I don't build applications—I craft experiences.
+
+<br/>
+
+## What I Do
+
+I create full-stack applications where form meets function. From the architecture beneath to the interface above, I focus on building systems that are elegant in their simplicity and powerful in their execution.
+
+**Frontend** — React, Redux, responsive design that adapts  
+**Backend** — Node.js, Express.js, scalable API architecture  
+**Mobile** — React Native, Flutter, native feel, cross-platform reach  
+**Data** — MongoDB, MySQL, structured and efficient  
+**Languages** — JavaScript, Java, Python, PHP, C
+
+<br/>
+
+## Current Focus
+
+I'm deepening my expertise in modern web architectures, exploring how to make applications faster, cleaner, and more intuitive. My goal isn't just to write code—it's to eliminate complexity and create solutions that feel effortless to use.
+
+<br/>
+
+## Approach
+
+**Start with the user.** What problem are we solving? What experience do we want to create?
+
+**Eliminate the unnecessary.** The best code is often the code you don't write.
+
+**Sweat the details.** Quality isn't an act, it's a habit—from naming conventions to load times.
+
+**Keep learning.** Technology evolves. So do I.
+
+<br/>
+
+## Let's Build Something
+
+I'm always interested in collaborating on projects that push boundaries and solve meaningful problems. If you have an idea worth building, let's talk.
+
+**[praneethmofficial@gmail.com](mailto:praneethmofficial@gmail.com)**
+
+<br/>
 
 <div align="center">
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=✨+Let's+build+something+amazing+together!+✨" alt="Footer text" />
+
+---
+
+*Think different. Code better.*
+
 </div>
