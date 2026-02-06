@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About
 
-I'm a full-stack developer who builds clean, functional web and mobile applications. I work across the entire stack—from database design to user interfaces—and I'm always learning how to write better, more maintainable code.
+I'm a full-stack developer who builds clean, functional web and mobile applications. I work across the entire stack—from database design to user interfaces and I'm always learning how to write better, more maintainable code.
 
 My goal is simple: write code that works well and doesn't make the next developer curse my name.
 
